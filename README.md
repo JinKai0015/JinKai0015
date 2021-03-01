@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ a front-end engineer
+
+⚡ site: [laokai's blog](http://www.laokaibaba.com)
+
 <!--
 **JinKai0015/JinKai0015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
